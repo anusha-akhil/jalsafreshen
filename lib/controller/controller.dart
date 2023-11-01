@@ -2035,7 +2035,6 @@ class Controller extends ChangeNotifier {
         } else {
           qty[i].text = "1";
         }
-
         print("quantity innnnn............$qty");
       }
       // rateController =
